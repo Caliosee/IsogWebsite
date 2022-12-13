@@ -1,4 +1,4 @@
-import styles from "./aboutextstyle.module.css";
+import styles from "./Aboutextstyle.module.css";
 
 export default function Aboutext() {
     return (
