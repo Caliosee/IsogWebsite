@@ -12,14 +12,14 @@
 .abouttxt{
     flex: 1 1 21rem;
 }
-.abouttxt h2{
+.abouttxt .h2{
     color:  #000;
     text-align: center;
     margin-top: 3%;
     display:flex;
     
 }
-.abouttxt h4 {
+.abouttxt .h4 {
     color:  #9A8C6E;
     margin: 5%;
     text-align: center;
