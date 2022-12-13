@@ -7,7 +7,7 @@ export default function Productpage() {
   return (
 
   <div>
-    <Iconproduct/>
+    <Productproduct/>
     <Navigationproduct />
     <Productproduct />
     <Footerproduct />
