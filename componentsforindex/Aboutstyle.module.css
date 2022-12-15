@@ -11,7 +11,7 @@
 }
 .abouttxt{
     flex: 1 1 21rem;
-    align-items: center;
+    text-align: center;
 }
 .abouttxt .h2{
     color:  #000;
